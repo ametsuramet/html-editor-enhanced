@@ -1,3 +1,8 @@
+## [2.5.2] = 2024-02-17
+* fixing bugs assets
+## [2.5.1.1] = 2024-02-17
+* update dependencies
+
 ## [2.5.1] = 2023-01-25
 * Fix build issues on Flutter 3.4.0+ due to assets directory
 * Update dependencies
